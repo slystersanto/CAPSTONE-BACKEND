@@ -14,7 +14,7 @@ const cors = require("cors");
 app.use(express.json());
 app.use(cors({
     origin: ["http://localhost:3000",
-     "https://subtle-dieffenbachia-471e53.netlify.app",
+     "https://precious-mermaid-2319d8.netlify.app",
     ],
 }));
 
